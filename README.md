@@ -1,2 +1,2 @@
 # joseph-repository
-My first repository on GitHub
+I like computer science and basketball
